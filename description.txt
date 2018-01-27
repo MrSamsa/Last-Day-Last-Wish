@@ -1,0 +1,15 @@
+Created and tested with latest Last Day 1.3 (1/25/2018)
+
+This addon contains optional files that will make the game slightly easier but also stretch out the progression a little bit by making the good stuff available later in reputation levels. These changes are just my modest wishes for the game to enjoy better :)
+
+Trader files - Traders will have more selections and high quantities available for misc items and equipment except armor and weapons. Armor and weapons selections are spread out more now so you wont be seeing any modern or new weapons in supply level 2 for example (few exceptions). Compatible option for FCO and Custom Shotgun Shells.
+
+"Stronkman" Actor file - The player character uses values from CoM for speed, jumping, etc. Also character hunger rate has been reduced by 1/3ish and has 2x the stamina, though you will still get tired quickly if under heavy load.
+
+No Delay and High task rewards - This is just a combination of these two mods, they share the same file so i just merged them for compatibility.
+
+Thats all for now but I might add more depending if I change anything else that takes time and could save someone the trouble. Making those trader files proper was tedious :(
+
+I am not a experienced modder and my knowledge of xray sorcery is weak. I tested this addon pack and all was well for my run. I must warn that problems could arise if you use No Delay and High Task Rewards since I havent personally been to all the zones that are effected by it, although im pretty confident it will be ok :)
+
+I couldnt have done any of this without referring to the work of everyone in the credits, specifically strelocc and andrejchudoba. Thank you so much! 

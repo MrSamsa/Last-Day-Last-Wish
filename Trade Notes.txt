@@ -1,0 +1,49 @@
+changes and general notes
+
+- Added dart shotgun ammo to basic supply of most traders.
+- Added more repair items and consumables in general for most trader files.
+- Bandit trader has better stuff now but not until you gain reputation levels.
+
+
+BANDIT TRADER
+
+- fixed - Supply advancement very weak and missing lots of food, repairkits and weapons making progression unsatisfy
+- fixed - file was missing stock/supply values for wpn_beretta_worn
+- added - Bizon in supply
+
+DUTY TRADER
+
+- change - Supply advancement spread out
+- added - Lots of misc consumables, tools and medical supplies.
+- added - wpn_knife 5 to last supply level.
+
+FREEDOM TRADER
+
+- change - Supply advancement spread out
+- added - Lots of misc consumables, tools and medical supplies. (no drugs for freedom?! wrong.)
+
+MERCENARY TRADER
+
+- change - Supply advancement spread out
+- added - Lots of misc consumables, tools and medical supplies.
+
+MILITARY TRADER
+
+- change - Supply advancement spread out
+- added - Lots of misc consumables, tools and medical supplies.
+
+MONOLITH TRADER
+
+- change - Supply advancement spread out
+- added - Lots of misc consumables, tools and medical supplies. (toolkits are sparse)
+
+OWL TRADER
+
+- change - Supply advancement spread out
+- added - Lots of misc consumables, tools and medical supplies.
+
+SPORE
+
+- change - Supply advancement spread out
+- added - Lots of misc consumables, tools and medical supplies.
+
